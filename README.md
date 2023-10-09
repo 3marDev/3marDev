@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Omar Alharbi
+- 👋 Hi, I’m  @OmarAsaadAlharbi
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
